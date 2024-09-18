@@ -16,3 +16,7 @@ To create the figures from our manuscript please refer to the guide below (pytho
 
 "mixed_tank_pc-nc_allocation.py": Figure S8 and Figure S10
 
+"euk_chloro_f.py": Figure S11
+
+"euk_RNA_f.py": Figure S12
+
