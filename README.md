@@ -12,4 +12,7 @@ To create the figures from our manuscript please refer to the guide below (pytho
 
 "C_all_anomoly_f.py": Figure S6
 
+"euk-pc-nc_allocation.py": Figure S7 and Figure S9
+
+"mixed_tank_pc-nc_allocation.py": Figure S8 and Figure S10
 
