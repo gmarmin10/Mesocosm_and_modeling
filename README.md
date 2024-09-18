@@ -10,3 +10,6 @@ To create the figures from our manuscript please refer to the guide below (pytho
 
 "mixed-tank_C_allocation_final": Figure 6
 
+"C_all_anomoly_f.py": Figure S6
+
+
